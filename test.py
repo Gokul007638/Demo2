@@ -1,2 +1,2 @@
 
-print('heoiiii')
+print('hoii')
